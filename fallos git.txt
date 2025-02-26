@@ -1,0 +1,17 @@
+git error failed to push somre refs to repository
+https://www.youtube.com/watch?v=y7w3A998eY4
+
+comandos git
+echo "# DanielNess" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Dani81mz/DanielNess.git
+git push -u origin main
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/Dani81mz/DanielNess.git
+git branch -M main
+git push -u origin main
